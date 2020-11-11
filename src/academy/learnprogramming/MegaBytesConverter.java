@@ -9,8 +9,6 @@ public class MegaBytesConverter {
 
         int megaBytes = kiloBytes / 1024;
         int remaining = kiloBytes % 1024;
-        System.out.println(
-                kiloBytes + " KB = " + megaBytes + " MB and " + remaining + " KB"
-        );
+        System.out.println(kiloBytes + " KB = " + megaBytes + " MB and " + remaining + " KB");
     }
 }

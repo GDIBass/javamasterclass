@@ -2,8 +2,8 @@ package academy.learnprogramming;
 
 public class Main {
     public static void main(String[] args) {
-        MegaBytesConverter.printMegaBytesAndKiloBytes(2500);
-        MegaBytesConverter.printMegaBytesAndKiloBytes(-1024);
-        MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
+        System.out.println(TeenNumberChecker.hasTeen(9, 99, 19));
+        System.out.println(TeenNumberChecker.hasTeen(23, 15, 42));
+        System.out.println(TeenNumberChecker.hasTeen(22, 23, 34));
     }
 }
