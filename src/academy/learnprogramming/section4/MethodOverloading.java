@@ -1,4 +1,4 @@
-package academy.learnprogramming.lessons;
+package academy.learnprogramming.section4;
 
 public class MethodOverloading {
     public static void main(String[] args) {

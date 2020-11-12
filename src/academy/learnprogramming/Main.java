@@ -1,6 +1,6 @@
 package academy.learnprogramming;
 
-import academy.learnprogramming.lessons.SecondAndMinutesChallenge;
+import academy.learnprogramming.section4.SecondAndMinutesChallenge;
 
 public class Main {
     public static void main(String[] args) {
