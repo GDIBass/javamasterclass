@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour) {

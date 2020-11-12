@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class PositiveNegativeZero {
     public static void checkNumber(int number) {

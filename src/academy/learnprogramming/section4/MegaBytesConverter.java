@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class MegaBytesConverter {
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {

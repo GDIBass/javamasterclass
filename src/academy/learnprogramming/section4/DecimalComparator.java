@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double numberOne, double numberTwo) {

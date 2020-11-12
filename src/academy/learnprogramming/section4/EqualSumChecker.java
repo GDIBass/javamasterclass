@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class EqualSumChecker {
     public static boolean hasEqualSum(int num1, int num2, int sum) {

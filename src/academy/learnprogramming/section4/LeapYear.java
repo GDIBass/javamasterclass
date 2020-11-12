@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.section4;
 
 public class LeapYear {
     public static boolean isLeapYear(int year) {
