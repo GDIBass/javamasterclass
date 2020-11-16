@@ -11,6 +11,10 @@ public class Account {
         this("1234", 2.5, "Default name", "Default address", "Default phone");
     }
 
+    public Account(String name, String email, String phoneNumber) {
+        this("99999", 100.55, name, email, phoneNumber);
+    }
+
     public Account(String number, double balance, String name, String email, String phoneNumber) {
         this.number = number;
         this.balance = balance;
